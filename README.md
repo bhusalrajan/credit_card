@@ -21,6 +21,7 @@ Current_week_Revenue = CALCULATE(
     SUM('credit_card'[Revenue]),
     FILTER( ALL('credit_card'), 'credit_card'[week_num2]=MAX('credit_card'[week_num2]))
 )
+```
 ## Project Insights
 Overall revenue: $57M
 Total interest: $8M
@@ -34,3 +35,4 @@ Top Contributing States:
 TX, NY, & CA: 68%
 Overall Activation Rate: 57.5%
 Overall Delinquent Rate: 6.06%
+
