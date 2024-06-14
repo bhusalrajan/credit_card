@@ -23,16 +23,16 @@ Current_week_Revenue = CALCULATE(
 )
 ```
 ## Project Insights
-Overall revenue: $57M
-Total interest: $8M
-Total transaction amount: $46M
-Revenue by Gender:
-Male customers: $31M
-Female customers: $26M
-Credit Card Contributions:
-Blue & Silver credit cards: 93% of overall transactions
-Top Contributing States:
+- Overall revenue: $57M
+- Total interest: $8M
+- Total transaction amount: $46M
+- Revenue by Gender:
+- Male customers: $31M
+- Female customers: $26M
+- Credit Card Contributions:
+- Blue & Silver credit cards: 93% of overall transactions
+- Top Contributing States:
 TX, NY, & CA: 68%
-Overall Activation Rate: 57.5%
-Overall Delinquent Rate: 6.06%
+- Overall Activation Rate: 57.5%
+- Overall Delinquent Rate: 6.06%
 
