@@ -36,3 +36,8 @@ TX, NY, & CA: 68%
 - Overall Activation Rate: 57.5%
 - Overall Delinquent Rate: 6.06%
 
+  ## Image
+
+
+![Credit Card Customer ](https://github.com/bhusalrajan/credi![Credit Card Transaction](https://github.com/bhusalrajan/credit_card/assets/169077027/5abd4787-b3ed-4344-a81e-4d64007ec024)
+t_card/assets/169077027/0440873c-9de0-43a6-9661-5f1622167520)
