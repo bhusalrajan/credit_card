@@ -21,7 +21,7 @@ Current_week_Revenue = CALCULATE(
     SUM('credit_card'[Revenue]),
     FILTER( ALL('credit_card'), 'credit_card'[week_num2]=MAX('credit_card'[week_num2]))
 )
-Project Insights
+##Project Insights
 Overall revenue: $57M
 Total interest: $8M
 Total transaction amount: $46M
